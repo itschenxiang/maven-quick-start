@@ -20,7 +20,7 @@
     <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/itschenxiang/IdeaProjects/maven-quick-start/target/surefire/surefirebooter-20240414222711875_3.jar /Users/itschenxiang/IdeaProjects/maven-quick-start/target/surefire 2024-04-14T22-27-11_795-jvmRun1 surefire-20240414222711875_1tmp surefire_0-20240414222711875_2tmp"/>
+    <property name="sun.java.command" value="/Users/itschenxiang/IdeaProjects/maven-quick-start/target/surefire/surefirebooter-20240414225820670_3.jar /Users/itschenxiang/IdeaProjects/maven-quick-start/target/surefire 2024-04-14T22-58-20_626-jvmRun1 surefire-20240414225820670_1tmp surefire_0-20240414225820670_2tmp"/>
     <property name="http.nonProxyHosts" value="127.0.0.1|192.168.0.0/16|*.192.168.0.0/16|10.0.0.0/8|*.10.0.0.0/8|172.16.0.0/12|*.172.16.0.0/12|100.64.0.0/10|*.100.64.0.0/10|17.0.0.0/8|*.17.0.0.0/8|localhost|*.localhost|local|*.local|169.254.0.0/16|*.169.254.0.0/16|224.0.0.0/4|*.224.0.0.0/4|240.0.0.0/4|*.240.0.0.0/4"/>
     <property name="surefire.test.class.path" value="/Users/itschenxiang/IdeaProjects/maven-quick-start/target/test-classes:/Users/itschenxiang/IdeaProjects/maven-quick-start/target/classes:/Users/itschenxiang/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/itschenxiang/.m2/repository/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -36,7 +36,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/itschenxiang/IdeaProjects/maven-quick-start/target/surefire/surefirebooter-20240414222711875_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/itschenxiang/IdeaProjects/maven-quick-start/target/surefire/surefirebooter-20240414225820670_3.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/cat.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="127.0.0.1|192.168.0.0/16|*.192.168.0.0/16|10.0.0.0/8|*.10.0.0.0/8|172.16.0.0/12|*.172.16.0.0/12|100.64.0.0/10|*.100.64.0.0/10|17.0.0.0/8|*.17.0.0.0/8|localhost|*.localhost|local|*.local|169.254.0.0/16|*.169.254.0.0/16|224.0.0.0/4|*.224.0.0.0/4|240.0.0.0/4|*.240.0.0.0/4"/>
